@@ -14,6 +14,6 @@
     "elysia": "^0.8.3"
   },
   "scripts": {
-    "dev": "bun run --watch index.ts"
+    "dev": "bun run --watch index.js"
   }
 }
