@@ -10,7 +10,9 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "@elysiajs/cors": "^0.8.0",
     "@elysiajs/html": "^0.8.0",
+    "@elysiajs/swagger": "^0.8.0",
     "elysia": "^0.8.3"
   },
   "scripts": {
